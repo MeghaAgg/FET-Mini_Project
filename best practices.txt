@@ -1,0 +1,7 @@
+//HTML
+https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/HTML
+
+ 
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript
